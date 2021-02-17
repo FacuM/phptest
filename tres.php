@@ -6,8 +6,8 @@
 
 ?>
 
-<h1> /uno </h1>
+<h1> /tres </h1>
 
-<p> Esta es la primera página pública, pero en esta versión es distinta. </p>
+<p> Esta es la tercera página pública. </p>
 
 <?php require_once 'view/footer.php'; ?>
