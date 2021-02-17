@@ -4,6 +4,7 @@ RewriteEngine On
 
 RewriteRule ^uno$   uno.php     [L]
 RewriteRule ^dos$   dos.php     [L]
+RewriteRule ^tres$  tres.php    [L]
 RewriteRule ^admin$ admin.php   [L]
 RewriteRule ^user$  user.php    [L]
 RewriteRule ^login$ login.php   [L]

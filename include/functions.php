@@ -38,7 +38,7 @@ function getLevelMeaning($userLevel) {
 }
 
 function getAllowedPaths($userLevel) {
-    $result = [ 'uno', 'dos' ];
+    $result = [ 'uno', 'dos', 'tres' ];
 
     if ($userLevel >= USER_LEVEL['ADMINISTRATOR']) {
         $result[] = 'admin';
